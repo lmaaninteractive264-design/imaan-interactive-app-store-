@@ -1,7 +1,8 @@
 // ১. এখানে আপনি আপনার অ্যাপ বা গেমের তথ্য যোগ করবেন
 const myData = {
     apps: [
-        { name: "Study Helper BD", icon: " https://i.supaimg.com/6de25398-02db-416f-91cf-e7762dd6427e.jpg", link: "https://www.mediafire.com/file/oijfzkmgmu4o8pq/_study_Helper__BD_19569219+(1).apk/file", desc: "Help of bangladeshi student",size:"33.34 MB ",Downloads:"300+" },
+        { name: "Study Helper BD", icon: " https://i.supaimg.com/6de25398-02db-416f-91cf-e7762dd6427e.jpg", link: "https://www.mediafire.com/file/oijfzkmgmu4o8pq/_study_Helper__BD_19569219+(1).apk/file", desc: "Help of bangladeshi student",size:"33.34 MB ",Downloads:"2k+" },
+        { name:"Stream Hub YT", icon:"https://i.ibb.co.com/GQsj4YYm/IMG-20260513-173813.png", link:"https://www.mediafire.com/file/7dxf49r00szui8l/_Stream_Hub_YT_19811540.apk/file", desc:"Watch your favorite videos.",size:"32.31 MB",Downloads:"100+"},
         { name:"takabook",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/c09fea5e-df63-4f54-b514-85cb3c53b6f1.png",link:"https://www.mediafire.com/file/5zrtsckf4wud4rm/_TakaBook_18787910.apk/file",desc:"write your product and customer Details",size:"31.44 MB",Downloads:"1k+"},
         { name:"Safe Lingo",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/daa6e9fd-576c-44cd-92e5-5821f228465e.png",link:"https://www.mediafire.com/file/7oqzl7w202llkq4/_safe_lingo_19007599.apk/file",desc:"Learn English, stay Halal",size:"33.44 MB",Downloads:"2k+"},
         { name:"Desi Browser",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/dee3c548-cba5-40b4-94c1-09329610af1a.png",link:"https://www.mediafire.com/file/26noezwnd7srudn/Desi_Browse_.apk/file",desc:"Fast.Simple.Secure",size:"7.4 MB",Downloads:"100+" }
