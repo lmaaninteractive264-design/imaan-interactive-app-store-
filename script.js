@@ -5,7 +5,7 @@ const myData = {
         { name:"Stream Hub YT", icon:"https://i.ibb.co.com/GQsj4YYm/IMG-20260513-173813.png", link:"https://www.mediafire.com/file/7dxf49r00szui8l/_Stream_Hub_YT_19811540.apk/file", desc:"Watch your favorite videos.",size:"32.31 MB",Downloads:"100+"},
         { name:"takabook",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/c09fea5e-df63-4f54-b514-85cb3c53b6f1.png",link:"https://www.mediafire.com/file/5zrtsckf4wud4rm/_TakaBook_18787910.apk/file",desc:"write your product and customer Details",size:"31.44 MB",Downloads:"1k+"},
         { name:"Safe Lingo",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/daa6e9fd-576c-44cd-92e5-5821f228465e.png",link:"https://www.mediafire.com/file/7oqzl7w202llkq4/_safe_lingo_19007599.apk/file",desc:"Learn English, stay Halal",size:"33.44 MB",Downloads:"2k+"},
-        { name:"Desi Browser",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/dee3c548-cba5-40b4-94c1-09329610af1a.png",link:"https://www.mediafire.com/file/wawe5500zt236m7/Document+from+Arafat+Islam+Arko/file",desc:"Fast.Simple.Secure",size:"7.4 MB",Downloads:"3k+" }
+        { name:"Desi Browser",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/dee3c548-cba5-40b4-94c1-09329610af1a.png",link:"https://www.mediafire.com/file/wawe5500zt236m7/Document+from+Arafat+Islam+Arko/file",desc:"Fast.Simple.Secure",size:"7.29 MB",Downloads:"3k+" }
     ],
     games: [
         { name: "Nirob barir diary", icon: "https://i.supaimg.com/9eeddbc7-303c-471f-9ba2-23c087e638c7.jpg", link: "https://www.mediafire.com/file/edia7kr03jf80ce/_Nirob_barir_diary_19572801.apk/file", desc: "bangladeshi horror game",size:"33.54 MB",Downloads:"500+" }
