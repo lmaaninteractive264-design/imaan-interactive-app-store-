@@ -9,7 +9,7 @@ const myData = {
     ],
     games: [
         { name: "Nirob barir diary", icon: "https://i.supaimg.com/9eeddbc7-303c-471f-9ba2-23c087e638c7.jpg", link: "https://www.mediafire.com/file/edia7kr03jf80ce/_Nirob_barir_diary_19572801.apk/file", desc: "bangladeshi horror game",size:"33.54 MB",Downloads:"1k+" },
-        { name:"minu part:01", icon:"https://i.ibb.co.com/dwLR5ctP/IMG-20260526-112212.png",link:"https://www.mediafire.com/file/w4svp8hb4fwbvvx/Minu+part+01+1.0.zip/file",desc:"Social cartoon game",size:"1.53 mb",download:"200+"}
+        { name:"minu part:01", icon:"https://i.ibb.co.com/dwLR5ctP/IMG-20260526-112212.png",link:"https://www.mediafire.com/file/w4svp8hb4fwbvvx/Minu+part+01+1.0.zip/file",desc:"Social cartoon game",size:"1.53 mb",Downloads:"200+"}
     ]
 };
 
