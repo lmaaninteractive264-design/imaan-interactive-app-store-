@@ -8,7 +8,8 @@ const myData = {
         { name:"Desi Browser",icon:"https://i.supaimg.com/2ffb7463-3f5e-4b1f-83aa-1739e11e17ec/dee3c548-cba5-40b4-94c1-09329610af1a.png",link:"https://www.mediafire.com/file/wawe5500zt236m7/Document+from+Arafat+Islam+Arko/file",desc:"Fast.Simple.Secure",size:"7.29 MB",Downloads:"3k+" }
     ],
     games: [
-        { name: "Nirob barir diary", icon: "https://i.supaimg.com/9eeddbc7-303c-471f-9ba2-23c087e638c7.jpg", link: "https://www.mediafire.com/file/edia7kr03jf80ce/_Nirob_barir_diary_19572801.apk/file", desc: "bangladeshi horror game",size:"33.54 MB",Downloads:"500+" }
+        { name: "Nirob barir diary", icon: "https://i.supaimg.com/9eeddbc7-303c-471f-9ba2-23c087e638c7.jpg", link: "https://www.mediafire.com/file/edia7kr03jf80ce/_Nirob_barir_diary_19572801.apk/file", desc: "bangladeshi horror game",size:"33.54 MB",Downloads:"1k+" },
+        { name:"minu part:01", icon:"https://i.ibb.co.com/dwLR5ctP/IMG-20260526-112212.png",link:"https://www.mediafire.com/file/w4svp8hb4fwbvvx/Minu+part+01+1.0.zip/file",desc:"Social cartoon game",size:"1.53 mb",download:"200+"}
     ]
 };
 
